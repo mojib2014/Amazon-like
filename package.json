@@ -1,0 +1,26 @@
+{
+  "name": "amazon-like",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mojib2014/Amazon-like.git"
+  },
+  "author": "Mojib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mojib2014/Amazon-like/issues"
+  },
+  "homepage": "https://github.com/mojib2014/Amazon-like#readme",
+  "dependencies": {
+    "colors": "^1.3.0",
+    "console.table": "^0.10.0",
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0",
+    "table": "^4.0.3"
+  }
+}
